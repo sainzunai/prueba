@@ -24,3 +24,5 @@ print("Solucion analitica: %.2f" %sol_analitica)
 print ("Solucion numerica: %.2f" %area)
 print ("Error: %.2f"%error)
 print ("")
+
+print ("")
